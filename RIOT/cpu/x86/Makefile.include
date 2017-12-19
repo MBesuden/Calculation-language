@@ -1,0 +1,2 @@
+export USEMODULE += quad_math
+export USEPKG += tlsf

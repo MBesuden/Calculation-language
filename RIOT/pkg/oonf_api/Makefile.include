@@ -1,0 +1,1 @@
+INCLUDES += -I$(BINDIRBASE)/pkg/$(BOARD)/oonf_api/src-api

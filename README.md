@@ -6,7 +6,7 @@ RIOT OS folder structure.
 - Prototype under RIOT/examples/Calculation
 - Test-Client under RIOT/examples/CalculationTest
 - GCD example under RIOT/examples/ggT
-- Mango VM example under RIOT/examples/ggt_Mango (not working)
+- Mango VM example under RIOT/examples/ggt_Mango (example not working)
 -- [Mango VM](https://github.com/ektrah/mango)
 
 ## Used Software
